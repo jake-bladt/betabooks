@@ -37,3 +37,4 @@ Authors can request and send out "beta-reader invite links." These invite a pote
 * Requirements of legal representation as a content host?
 * Do I blog about building this?
 * Live chat feature?
+* Collaboration between authors?
