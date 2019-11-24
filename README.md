@@ -18,5 +18,6 @@ Near-constant autosave and the ability to review and rewind to a previous point 
 
 Authors can request and send out "beta-reader invite links." These invite a potential reader to beta a specific work or everything a writer is working on. Beta readers can sign up via the link. Once a reader is in the system, they should have a single identity for all the works they're reviewing across authors.
 
-The front page - 
+*The front page*: When unauthorized users come to the site, they should see an explanation of the site's purpose, a news stream, a way to find works looking for beta readers, a means to sign up as an author and a means to sign up to be kept up-to-date with site happenings including the availability of new works by genre/subject/author to review. Links to more detailed information and possibly things to buy should also be available.
+
 
