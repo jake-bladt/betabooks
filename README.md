@@ -31,3 +31,4 @@ Authors can request and send out "beta-reader invite links." These invite a pote
 * Do I want to outsource any part of this?
 * How do I find what features people will actually want to use?
 * Domain name?
+* How do I want to deploy this?
