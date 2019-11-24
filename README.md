@@ -42,3 +42,6 @@ Authors can request and send out "beta-reader invite links." These invite a pote
 * Do I blog about building this?
 * Live chat feature?
 * Collaboration between authors?
+* Is RTF the best format for storing the books?
+
+**Initial Conclusion**: With an obvious competitor in the market, more evaluation is necessary before we proceed.
