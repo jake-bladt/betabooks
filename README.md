@@ -23,3 +23,11 @@ Authors can request and send out "beta-reader invite links." These invite a pote
 #### Big questions to answer
 
 * Is it viable to architect this as a static site with Azure functions on the back-end? I still haven't seen a clean implementation of Azure functions to Azure SQL.
+* Specifically, how practical is it to manage auth(orization|entication) via FaaS?
+* Does it make sense to use git to store the actual works? It would handle a lot of the diff-patch-merge work for me, but it's not a well-established tech path.
+* How much is this going to cost to run? How can I make it pay for itself?
+* Do I want to use an existing CSS framework or design it myself?
+* What other technologies do I want to use?
+* Do I want to outsource any part of this?
+* How do I find what features people will actually want to use?
+* Domain name?
