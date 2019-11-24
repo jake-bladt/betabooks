@@ -33,3 +33,5 @@ Authors can request and send out "beta-reader invite links." These invite a pote
 * Domain name?
 * How do I want to deploy this?
 * E-mail alerts? MailChimp? SendMail?
+* Explicitness slider on user preferences?
+* Requirements of legal representation as a content host?
