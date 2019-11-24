@@ -32,3 +32,4 @@ Authors can request and send out "beta-reader invite links." These invite a pote
 * How do I find what features people will actually want to use?
 * Domain name?
 * How do I want to deploy this?
+* E-mail alerts? MailChimp? SendMail?
