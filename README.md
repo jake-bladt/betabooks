@@ -16,5 +16,7 @@ Authors can login and start creating a story. There is a basic rich-text editor 
 
 Near-constant autosave and the ability to review and rewind to a previous point in time are essential. While the author is working on a chapter, (or other subpart of the book as they see fit. Mark by section as a later option?) it's stored as draft. Once they're ready to get feedback, they release (publish?) to their beta readers.
 
-Authors can request and send out "beta-reader invite links." These invite a potential reader to beta a specific work or everything a writer is working on. 
+Authors can request and send out "beta-reader invite links." These invite a potential reader to beta a specific work or everything a writer is working on. Beta readers can sign up via the link. Once a reader is in the system, they should have a single identity for all the works they're reviewing across authors.
+
+The front page - 
 
