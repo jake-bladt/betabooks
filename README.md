@@ -35,3 +35,4 @@ Authors can request and send out "beta-reader invite links." These invite a pote
 * E-mail alerts? MailChimp? SendMail?
 * Explicitness slider on user preferences?
 * Requirements of legal representation as a content host?
+* Do I blog about building this?
