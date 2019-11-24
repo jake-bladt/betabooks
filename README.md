@@ -22,6 +22,8 @@ Authors can request and send out "beta-reader invite links." These invite a pote
 
 **Export to Word**: As part of the MVP, the site must be able to export its stories to Word (*.DOCX) so that authors don't have to worry about losing work if the site shuts down.
 
+**DevOps**: The site(s) should be developed using CD and automated testing from Day 1.
+
 #### Big questions to answer
 
 * Is it viable to architect this as a static site with Azure functions on the back-end? I still haven't seen a clean implementation of Azure functions to Azure SQL.
